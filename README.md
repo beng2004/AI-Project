@@ -64,7 +64,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Supports GPT-4o and Fine-Tuned Models
 
 ## ✨ Quiz Feature
-https://github.com/user-attachments/assets/e06ee2bf-3278-459e-b3fe-ee70635c3e4e
+https://github.com/user-attachments/assets/01060a87-d179-475e-9053-b06584b4443a
+
+
 
 ## ✨ Solution from Fine Tuned Model
 ![i give up 1](https://github.com/user-attachments/assets/dbd7d76c-f762-4ed6-a640-165e3da48085)
