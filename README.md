@@ -63,12 +63,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Requires OpenAI API Key
 - Supports GPT-4o and Fine-Tuned Models
 
+## ✨ Example
+
+https://github.com/user-attachments/assets/91de821f-a578-4a1f-ac3c-e306016166d4
+
 ## ✨ Quiz Feature
+
 https://github.com/user-attachments/assets/01060a87-d179-475e-9053-b06584b4443a
 
-
-
 ## ✨ Solution from Fine Tuned Model
+
 ![i give up 1](https://github.com/user-attachments/assets/dbd7d76c-f762-4ed6-a640-165e3da48085)
 ![i give up 2](https://github.com/user-attachments/assets/abdb6244-1dad-4a36-a79c-b97436cfad34)
 ![i give up 3](https://github.com/user-attachments/assets/a11be438-d7a0-4375-8c89-591cde98cfc1)
